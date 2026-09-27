@@ -1,0 +1,6 @@
+id,assumption,value,source,range_low,range_high,sensitivity_test,status,date_added
+A1,Asking price equals REGA ad license price,License price per m2,REGA ad licenses,,,,confirmed,2026-09-27
+A2,Al-Khalidiya asking price corrected for data-entry error,2700 SAR/m2 (50197725 total),Computed: total / area,,,Verify with updated license,assumed,2026-09-27
+A3,Al-Arid zoning equals surrounding area code S-111 (villas; G+1+50% roof; 60% coverage),S-111,3 Suhail reports near license pin,,,Lower and higher zoning scenarios,assumed,2026-09-27
+A4,Al-Arid frontage is one street (20m south),1 street,REGA license boundaries,1 street,4 streets,Four-frontage scenario,assumed,2026-09-27
+A5,Each Al-Khalidiya zone keeps its zoning after plot merger,Villa zone + residential-commercial zone,Suhail reports (indicative),,,Lower zoning scenario,assumed,2026-09-27

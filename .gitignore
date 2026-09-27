@@ -1,0 +1,16 @@
+# Private data (names, phone numbers, deed numbers)
+data/raw_private/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Excel and Power BI temp files
+~$*
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
